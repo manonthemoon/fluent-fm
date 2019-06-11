@@ -1,7 +1,7 @@
 
-# FluentFM [![](https://travis-ci.org/thyyppa/fluent-fm.svg?branch=master)](https://travis-ci.org/thyyppa/fluent-fm)
+# FluentFM
 
-FluentFM is a PHP package that connects to FileMaker Server's Data API using a fluent query builder style interface.
+FluentFM is a PHP package based on Thyppa FluentFM
 
 ### Requirements  
 
@@ -14,13 +14,13 @@ FluentFM is a PHP package that connects to FileMaker Server's Data API using a f
   
 Use the command
   
-```composer require thyyppa/fluent-fm```  
+```composer require manonthemoon/fluent-fm```  
   
 or include in your `composer.json` file  
 ```json  
 {  
     "require": {  
-        "thyyppa/fluent-fm": "dev-master"  
+        "manonthemoon/fluent-fm": "dev-master"  
     }  
 }  
 ```  
